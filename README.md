@@ -16,3 +16,6 @@ tech used- HTML-5,CSS-3,BOOTSTRAP-4
 
 
 ![fitness shopper - Google Chrome 04-01-2022 13_34_23 (2)](https://user-images.githubusercontent.com/63986678/148028683-3792e4f7-3c83-4f4f-bae4-aa6faac0f5f2.png)
+
+
+![18f7098b-e6ed-4b18-b1cb-49d3fe4a579f](https://user-images.githubusercontent.com/63986678/148765622-b57be08b-ad86-471a-b534-f7a814883e30.jpg)
