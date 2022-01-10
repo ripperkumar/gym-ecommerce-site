@@ -3,7 +3,8 @@ GYM E-COMMERCE SITE project - this repo contain all the beautiful front end code
 tech used- HTML-5,CSS-3,BOOTSTRAP-4
 
 
-![fitness shopper - Google Chrome 04-01-2022 13_33_48 (2)](https://user-images.githubusercontent.com/63986678/148028672-503795a6-fbd9-41e5-88b6-554920ebd56f.png)
+![766df849-3f7c-4bc2-a6ea-f5f8442d85b5](https://user-images.githubusercontent.com/63986678/148767795-1ed2b12f-2c05-4fad-b09d-35392d90a95e.jpg)
+
 
 
 
@@ -18,4 +19,4 @@ tech used- HTML-5,CSS-3,BOOTSTRAP-4
 ![fitness shopper - Google Chrome 04-01-2022 13_34_23 (2)](https://user-images.githubusercontent.com/63986678/148028683-3792e4f7-3c83-4f4f-bae4-aa6faac0f5f2.png)
 
 
-![18f7098b-e6ed-4b18-b1cb-49d3fe4a579f](https://user-images.githubusercontent.com/63986678/148765622-b57be08b-ad86-471a-b534-f7a814883e30.jpg)
+
